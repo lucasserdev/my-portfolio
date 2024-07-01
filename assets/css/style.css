@@ -164,7 +164,7 @@ section.hero {
     
     width: 800px;
     height: 800px;
-    animation: circleStart 3s ease-in-out;
+    animation: circleStart 2s ease-in-out;
     animation-delay: 0.5s;
 } 
 
@@ -292,7 +292,7 @@ h3 span::after {
 
 @keyframes palavras {
     0%, 20% {
-        content: ">_ Hello There! I am Lucas!";  
+        content: ">_ Olá! Eu me chamo Lucas!";  
     }
     21%, 40% {
         content: "HTML5 - CSS3 - JavaScript(ES6) - Bootstrap - GitHub ";
@@ -301,7 +301,7 @@ h3 span::after {
         content: "<Programador FrontEnd />";
     }
     61%, 80% {
-        content: ">_ Hello There! I am Lucas!";  
+        content: ">_ Olá! Eu me chamo Lucas!";  
     }
     81%, 100% {
         content: "HTML5 - CSS3 - JavaScript(ES6) - Bootstrap - GitHub ";
